@@ -1,0 +1,31 @@
+.txt{
+    margin-top: 45px;
+    text-shadow: 2px 2px 2px black;
+    font-family: cursive;
+    padding: 12px;
+}
+.txt1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+}
+.card:hover{
+    box-shadow: 3px 3px 3px 3px black;
+    padding: 12px;
+}
+.card{
+ 
+}
+ol{
+    list-style-type: none;
+}
+.txt2{
+    border-bottom: 1px solid gray;
+    font-size:16px;
+    font-weight:bold;
+   
+}
+.bi{
+    margin-left: 22px;
+    
+    
+}
